@@ -1,7 +1,12 @@
 # csv-reader-speed-01-run-20261121 entry
 
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/tngrha/makefun-csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/tngrha/makefun-csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
 A faster drop-in for make.fun's csv-reader 1.0.0, the reference reader of the
-csv-reader-speed-01 bounty ("Read broken CSV files faster, 21 November 2026").
+[csv-reader-speed-01 bounty on make.fun](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+("Read broken CSV files faster, 21 November 2026").
 
 - `solve.js` — an ES module whose `run(input)` returns exactly csv-reader 1.0.0's
   `{columns, rows, errors}` for every input `{text, header}`, under the same written
